@@ -1,0 +1,107 @@
+﻿<UserControl x:Class="WpfApp1.MVVM.View.Home_View"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:WpfApp1.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <StackPanel>
+        <TextBlock Text="Info for Today..."  
+                   Foreground="White"
+                   FontSize="28"
+                   FontFamily="Corbel"
+                   FontWeight="ExtraBold"
+                   HorizontalAlignment="Left"
+                   Margin="0,0,0,20"/>
+
+        <StackPanel Orientation="Horizontal">
+            <Border Width="400"
+                    Height="300">
+
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="LightSeaGreen" Offset="0.0"/>
+                        <GradientStop Color="AliceBlue" Offset="1"/>
+                        <GradientStop Color="#5bc3ff" Offset="0.0"/>
+                        <GradientStop Color="#3fa0ff" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Border.Clip>
+                    <RectangleGeometry RadiusX="3"
+                                       RadiusY="3"
+                                       Rect="0,0,400,300"/>
+                </Border.Clip>
+
+                <Grid>
+                    <StackPanel>
+                        <TextBlock 
+                                   Name="SavingsLabel" 
+                                   Text="Savings"
+                                   Foreground="White"
+                                   FontFamily="Corbel Light"
+                                   FontWeight="ExtraBold"
+                                   FontSize="35"
+                                   Margin="20,10,10,0"/>
+
+                        <Label     Name="Block"
+                                   Content="Block"
+                                   Foreground="White"
+                                   FontFamily="Corbel Bold"
+                                   FontSize="35"
+                                   Margin="20,10,10,0"/>
+                  
+                                   
+                    </StackPanel>
+
+                    <Image Width="80"
+                           Height="80"
+                           Source="/Images/Money.png"
+                           HorizontalAlignment="Right"
+                           VerticalAlignment="Bottom"
+                           >
+                        <Image.RenderTransform>
+                            <TransformGroup>
+                                <ScaleTransform/>
+                                <SkewTransform/>
+                                <RotateTransform Angle="-1"/>
+                                <TranslateTransform/>
+                            </TransformGroup>
+                        </Image.RenderTransform>
+                    </Image>
+                </Grid>
+            </Border>
+            <Border Width="180"
+                    Height="300"
+                    CornerRadius="3"
+                    Margin="25,0,0,0">
+
+                <Border.Background>
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,2">
+                        <GradientStop Color="DarkSlateGray" Offset="0.0"/>
+                        <GradientStop Color="AliceBlue" Offset="1"/>
+                        <GradientStop Color="LightSlateGray" Offset="0.0"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+
+
+            </Border>
+        </StackPanel>
+
+        <StackPanel Margin="0,15,196,-10">
+            <StackPanel.Resources>
+                <Style TargetType="{x:Type Border}">
+
+                </Style>
+            </StackPanel.Resources>
+
+
+
+
+
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>

@@ -1,0 +1,46 @@
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\Theme\TextBoxTheme.baml
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\MVVM\View\Home View.g.cs
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\MVVM\View\Home View.baml
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\MVVM\View\DiscoveryView.baml
+C:\Users\Accat\source\repos\C#\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\Theme\TextBoxTheme.baml
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\MVVM\View\DiscoveryView.g.cs
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\MVVM\View\Home View.g.cs
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\App.baml
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\MVVM\View\DiscoveryView.baml
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\MVVM\View\Home View.baml
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Accat\OneDrive - student.palomar.edu\1. VSfiles\2. C#\Projects\OTGApp1\WpfApp1\obj\Debug\WpfApp1.pdb
